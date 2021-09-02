@@ -1,0 +1,3 @@
+﻿  Prac.cpp
+C:\Users\zepei\source\repos\Prac\Prac\Prac.cpp(77): warning C4715: 'isSorted': not all control paths return a value
+  Prac.vcxproj -> C:\Users\zepei\source\repos\Prac\Debug\Prac.exe

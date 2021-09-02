@@ -1,0 +1,4 @@
+﻿  Merging Array Real.cpp
+C:\Users\zepei\source\repos\Merging Array Real\Merging Array Real\Merging Array Real.cpp(19,6): warning C4101: 'i': unreferenced local variable
+C:\Users\zepei\source\repos\Merging Array Real\Merging Array Real\Merging Array Real.cpp(53,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Merging Array Real.vcxproj -> C:\Users\zepei\source\repos\Merging Array Real\Debug\Merging Array Real.exe

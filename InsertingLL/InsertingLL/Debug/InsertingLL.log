@@ -1,0 +1,4 @@
+﻿  InsertingLL.cpp
+C:\Users\zepei\source\repos\InsertingLL\InsertingLL\InsertingLL.cpp(12,9): warning C4101: 'count': unreferenced local variable
+C:\Users\zepei\source\repos\InsertingLL\InsertingLL\InsertingLL.cpp(20): warning C4715: 'search': not all control paths return a value
+  InsertingLL.vcxproj -> C:\Users\zepei\source\repos\InsertingLL\Debug\InsertingLL.exe

@@ -1,0 +1,6 @@
+﻿  test.cpp
+C:\Users\zepei\source\repos\test\test\test.cpp(4,21): warning C4305: 'initializing': truncation from 'int' to 'char'
+C:\Users\zepei\source\repos\test\test\test.cpp(4,11): warning C4309: 'initializing': truncation of constant value
+C:\Users\zepei\source\repos\test\test\test.cpp(7,22): warning C4305: 'initializing': truncation from 'int' to 'short'
+C:\Users\zepei\source\repos\test\test\test.cpp(7,12): warning C4309: 'initializing': truncation of constant value
+  test.vcxproj -> C:\Users\zepei\source\repos\test\Debug\test.exe
